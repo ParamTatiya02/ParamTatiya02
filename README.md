@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, I'm Param!! 👋
 
-<!--
-**ParamTatiya02/ParamTatiya02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on DSC Lead application
+- 🌱 I’m currently learning AngularJS
+- 👯 I’m looking to collaborate on any python Project
+- 🤔 I’m looking for help with C++
+- 💬 Ask me about Python or any Frontend web developer stuff
+- 📫 How to reach me: Instagram LinkedIn Facebook
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I'm a Weeb
+
