@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Param !!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **DSC Lead Application**
+- 🔭 I have started my **ML Journey**
 
 - 🌱 I’m currently learning **Flask and AngularJS**
 
