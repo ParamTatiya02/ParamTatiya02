@@ -3,7 +3,7 @@
 
 - 🔭 I have started my **ML Journey**
 
-- 🌱 I’m currently learning **Flask and AngularJS**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **any Python Project**
 
